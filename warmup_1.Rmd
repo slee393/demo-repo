@@ -1,0 +1,49 @@
+---
+title: "HW_1"
+author: "Nicole Lee"
+date: "January 31, 2018"
+output: html_document
+---
+
+#Game of Thrones
+
+*Arya Stark*
+![](http://ksassets.timeincuk.net/wp/uploads/sites/55/2017/07/Arya-920x584.png)
+
+> A girl is Arya Stark of Winterfell, and I'm going home.
+
+Category|Detail
+---|---
+Status|Alive
+Date of Birth|287 AC
+Titles|princess(formerly)
+Origin|Winterfell
+Culture|Northmen
+
+#Receipe for Boulevardier
+![](https://farm5.staticflickr.com/4614/38757957455_89673d5e59_z.jpg)
+
+####Ingredients
+* 2 ounces bourbon or rye whiskey
+* 1 ounce red vermouth
+* 1 ounce Campari
+* Ice
+
+####Extra Ingredients
+* Orange peel 
+* A cherry
+
+####Steps of the Recipe
+1. Mix everything
+2. Add ice to taste
+3. You're done!
+
+https://smittenkitchen.com/2018/01/boulevardier/
+
+$$e  = mc^2$$
+$$\alpha$$
+
+
+
+
+
